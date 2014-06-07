@@ -1,0 +1,44 @@
+--- po/LINGUAS	2014-05-17 23:08:58.000000000 +0200
++++ po/LINGUAS.1	2014-06-07 11:05:20.200172372 +0200
+@@ -1,41 +1 @@
+-ar
+-bg
+-ca
+-ca@valencia
+-cs
+-da
+-de
+-dz
+-el
+-en_CA
+-en_GB
+-eo
+ es
+-eu
+-fi
+-fr
+-gl
+-hu
+-id
+-it
+-ja
+-ko
+-nb
+-ne
+-nl
+-oc
+-pa
+-pl
+-pt
+-pt_BR
+-ro
+-ru
+-rw
+-sl
+-sq
+-sr
+-sr@latin
+-sv
+-vi
+-zh_CN
+-zh_TW
